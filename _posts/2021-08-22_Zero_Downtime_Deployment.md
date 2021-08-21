@@ -2,7 +2,8 @@
 layout: post
 title: "무중단 배포에 대하여"
 date: 2022-08-22 00:05
-tag: [Deployment]
+tags: 
+  - Deployment
 ---
 
 # 무중단 배포에 대하여
