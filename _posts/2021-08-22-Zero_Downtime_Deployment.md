@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "무중단 배포에 대하여"
 date: 2022-08-22 00:05
 tags: 
