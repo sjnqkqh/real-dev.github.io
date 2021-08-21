@@ -103,10 +103,10 @@ analytics:
 author:
   name             : "Junlyul Yang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Back-End programmer"
+  bio              : "Back-End programmer Desire, Learn, Post"
   location         : "Seoul"
-  email            : sjn3649@gmail.com
-  links:
+  email            : "sjn3649@gmail.com"
+  #links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sjn3649@gmail.com"
