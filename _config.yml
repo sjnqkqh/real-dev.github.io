@@ -106,7 +106,7 @@ author:
   bio              : "Back-End programmer    Desire, Learn, Post"
   location         : "Seoul"
   email            : "sjn3649@gmail.com"
-  #links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sjn3649@gmail.com"
