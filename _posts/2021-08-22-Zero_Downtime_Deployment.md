@@ -6,10 +6,6 @@ tags:
   - Deployment
 ---
 
-# 2021-08-22_Zero_Downtime_Deployment
-
-# 무중단 배포에 대하여
-
 개발자로 일하다 보면 가끔
 
 ‘아 이건 그래도 적용했어야 했는데…’
