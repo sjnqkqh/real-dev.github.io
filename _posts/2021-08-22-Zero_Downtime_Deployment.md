@@ -53,8 +53,6 @@ tags:
 
 ![/assets/images/posts/2021-08-22/Untitled.png](/assets/images/posts/2021-08-22/Untitled.png)
 
-Untitled
-
 롤링배포는 결국 구버전과 신버전이 공존하는 상황이 발생한다.
 
 ## 블루-그린 배포(Blue-Green Deployment)
